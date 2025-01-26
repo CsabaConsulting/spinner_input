@@ -58,7 +58,7 @@ class MySpinnerState extends State<MySpinner> {
                 ),
                 middleNumberWidth: 70,
                 middleNumberStyle: const TextStyle(fontSize: 21),
-                middleNumberBackground: Colors.yellowAccent.withOpacity(0.5),
+                middleNumberBackground: Colors.yellowAccent.withAlpha(128),
                 spinnerValue: spinner3,
                 onChange: (newValue) {
                   setState(() {
