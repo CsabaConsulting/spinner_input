@@ -17,3 +17,7 @@
 # [0.0.3] - 01/01/2024
 
 - Correct code format after code documentation: fields require now extra new line separation
+
+# [0.0.4] - 01/25/2024
+
+- Increase package versions
